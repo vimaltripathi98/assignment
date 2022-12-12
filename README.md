@@ -1,5 +1,6 @@
 Important Notes for open project
-Note :- I am not sending node module file because when i send node module file than file length is very big.
+Note :- if You use zip I am not sending node module file because when i send node module file than file length is very big.
+if use git than use git clone url and than go to directory and write npm install.
 
 1-first setup project and goto the directory(assignment)
 2-than open the terminal and write npm install(here i used only one extra package react-router-dom)
