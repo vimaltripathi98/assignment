@@ -1,0 +1,33 @@
+.mainTable {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 2px solid rgb(247, 238, 238);
+}
+
+.headBody {
+  text-align: left;
+  padding: 16px;
+}
+
+.logOutBtn {
+  float: right;
+  padding: 10px;
+  border: none;
+  margin-right: 10px !important;
+  color: #fff;
+  background-color: red;
+}
+
+.rowBorder {
+  border: 2px solid rgb(46, 45, 44);
+}
+
+.headerSection {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 100%;
+  margin: 0;
+  justify-content: center;
+  background-color: blanchedalmond;
+}
